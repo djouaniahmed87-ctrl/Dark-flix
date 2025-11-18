@@ -1,0 +1,6 @@
+/* ملف CSS أساسي لـ Dark-flix */
+:root{--bg:#0b0b0d;--fg:#e6e6e6;--accent:#ff6b6b}
+body{background:var(--bg);color:var(--fg);font-family:sans-serif;margin:0;padding:16px}
+header{margin-bottom:16px}
+a{color:var(--accent);text-decoration:none}
+main{max-width:800px;margin:0 auto}
